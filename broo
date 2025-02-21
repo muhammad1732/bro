@@ -1,0 +1,1 @@
+while true; do wget http://speed.hetzner.de/100GB.bin -O /dev/null; done
